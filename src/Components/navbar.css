@@ -1,0 +1,40 @@
+.navbar {
+  /* padding: 10px 0 10px 0; */
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  background-color: #004700;
+  align-items: center;
+}
+
+.links {
+  width: 600px;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 100px;
+}
+
+.links a {
+  width: 100px;
+  text-decoration: none;
+  color: #bfffbf;
+}
+
+.logo {
+  width: 50px;
+  align-items: center;
+  margin-left: 50px;
+  background-color: #bfffbf;
+  border-radius: 50%;
+}
+
+.logopic {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+a:hover {
+  color: #ffffff;
+  font-weight: bold;
+}
